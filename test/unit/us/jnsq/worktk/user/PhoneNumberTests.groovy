@@ -2,7 +2,7 @@ package us.jnsq.worktk.user
 
 import grails.test.*
 
-class EmployeeTests extends GrailsUnitTestCase {
+class PhoneNumberTests extends GrailsUnitTestCase {
     protected void setUp() {
         super.setUp()
     }

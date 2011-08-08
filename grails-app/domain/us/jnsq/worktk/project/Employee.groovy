@@ -1,7 +1,6 @@
-package us.jnsq.worktk.user
+package us.jnsq.worktk.project
 
 import us.jnsq.worktk.security.User
-import us.jnsq.worktk.project.Organization
 
 class Employee {
     User user

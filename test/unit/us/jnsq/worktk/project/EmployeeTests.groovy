@@ -1,8 +1,8 @@
-package us.jnsq.worktk.wiki
+package us.jnsq.worktk.project
 
 import grails.test.*
 
-class DiffTests extends GrailsUnitTestCase {
+class EmployeeTests extends GrailsUnitTestCase {
     protected void setUp() {
         super.setUp()
     }
